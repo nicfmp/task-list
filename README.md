@@ -1,4 +1,4 @@
-#📝 Task List
+# 📝 Task List
 
 Task List is a simple to-do list web application 🚀. It allows you to manage your tasks with ease. Add and delete tasks effortlessly, making organization a breeze! ✅🗑️
 
@@ -11,4 +11,4 @@ Get organized today with Task List! 📅📌
 
 Feel free to customize this description for your GitHub repository.
 
-<img src="/assets/tst.png">
+<img src="/assets/tst.PNG">

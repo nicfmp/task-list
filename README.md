@@ -11,4 +11,4 @@ Get organized today with Task List! 📅📌
 
 Feel free to customize this description for your GitHub repository.
 
-<img src="tst.png>
+<img src="/assets/img/arquivo.gif">

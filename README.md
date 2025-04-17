@@ -9,6 +9,6 @@ Features:
 
 Get organized today with Task List! 📅📌
 
-Feel free to customize this description for your GitHub repository.
+
 
 <img src="/assets/tst.PNG">
